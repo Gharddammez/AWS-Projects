@@ -13,7 +13,7 @@ Follow these steps to get your serverless web app up and running:
 1. **Prerequisites**
 
    - Have an AWS account. If you don't have one, you can sign up [here](https://aws.amazon.com/).
-   - Access the project files from [Amplify Web-app](https://github.com/Kevin-byt/AWS-Projects/tree/main/Amplify).
+   - Access the project files from [Amplify Web-app](https://github.com/Guav-byt/AWS-Projects/tree/main/Amplify).
 
 2. **Creating the Front-end**
 

@@ -27,7 +27,7 @@ Welcome to the 12-week AWS Projects Workshop! This repository serves as the cent
    - **Technologies Used:** AWS VPC, Transit Gateway
 
 4. **Week 4: Hosting a static website on AWS S3**
-   - [Project README](https://github.com/Kevin-byt/AWS-Projects/tree/main/S3%20Static%20Website#readme)
+   - [Project README](https://github.com/Guav-byt/AWS-Projects/tree/main/S3%20Static%20Website#readme)
    - [Project Blog](https://medium.com/@GuavGharddammez/hosting-a-static-website-on-aws-s3-35f49dd1c5e6)
    - **Technologies Used:** AWS S3
 
@@ -47,7 +47,7 @@ Welcome to the 12-week AWS Projects Workshop! This repository serves as the cent
    - **Technologies Used:** AWS ECS, Docker
 
 8. **Week 8: Serverless Web App Development**
-   - [Project README](https://github.com/Kevin-byt/AWS-Projects/tree/main/Amplify)
+   - [Project README](https://github.com/Guav-byt/AWS-Projects/tree/main/Amplify)
    - [Project Blog](https://GuavGharddammez.medium.com/serverless-web-app-development-made-easy-a-complete-guide-with-aws-amplify-dynamodb-lambda-and-052daf5b978d)
    - **Technologies Used:** AWS Amplify, AWS Lambda, API Gateway, DynamoDB, AWS IAM
 
